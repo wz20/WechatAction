@@ -1,6 +1,6 @@
-package cn.ofpp.core;
+package cn.wechat.core;
 
-import cn.ofpp.Bootstrap;
+import cn.wechat.Bootstrap;
 import me.chanjar.weixin.mp.api.WxMpService;
 import me.chanjar.weixin.mp.api.WxMpTemplateMsgService;
 import me.chanjar.weixin.mp.api.impl.WxMpServiceImpl;

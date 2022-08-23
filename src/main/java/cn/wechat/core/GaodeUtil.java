@@ -1,4 +1,4 @@
-package cn.ofpp.core;
+package cn.wechat.core;
 
 import cn.hutool.http.HttpResponse;
 import cn.hutool.http.HttpUtil;

@@ -1,4 +1,4 @@
-package cn.ofpp.core;
+package cn.wechat.core;
 
 /**
  * @author DokiYolo

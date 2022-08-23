@@ -1,4 +1,4 @@
-package cn.ofpp.core;
+package cn.wechat.core;
 
 import cn.hutool.core.date.DateField;
 import cn.hutool.core.date.DateTime;

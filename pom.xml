@@ -78,7 +78,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>./lib</classpathPrefix>
-                            <mainClass>cn.ofpp.Application</mainClass>
+                            <mainClass>cn.wechat.Application</mainClass>
                         </manifest>
                         <manifestEntries>
                             <Class-Path>./</Class-Path>

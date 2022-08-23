@@ -1,13 +1,13 @@
-package cn.ofpp.core;
+package cn.wechat.core;
 
 import cn.hutool.core.util.StrUtil;
-import cn.ofpp.Bootstrap;
+import cn.wechat.Bootstrap;
 import me.chanjar.weixin.mp.bean.template.WxMpTemplateData;
 import me.chanjar.weixin.mp.bean.template.WxMpTemplateMessage;
 
 import java.util.List;
 
-import static cn.ofpp.core.GaodeUtil.getAdcCode;
+import static cn.wechat.core.GaodeUtil.getAdcCode;
 
 /**
  * @author DokiYolo

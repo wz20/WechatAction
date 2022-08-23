@@ -1,4 +1,4 @@
-package cn.ofpp.core;
+package cn.wechat.core;
 
 /**
  * 你可以new一个女朋友

@@ -1,9 +1,9 @@
-package cn.ofpp;
+package cn.wechat;
 
-import cn.ofpp.core.BoyFriend;
-import cn.ofpp.core.GirlFriend;
-import cn.ofpp.core.MessageFactory;
-import cn.ofpp.core.Wx;
+import cn.wechat.core.BoyFriend;
+import cn.wechat.core.GirlFriend;
+import cn.wechat.core.MessageFactory;
+import cn.wechat.core.Wx;
 
 /**
  * 启动类

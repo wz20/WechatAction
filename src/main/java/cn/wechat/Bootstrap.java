@@ -1,12 +1,12 @@
-package cn.ofpp;
+package cn.wechat;
 
 import cn.hutool.core.util.StrUtil;
-import cn.ofpp.core.Wx;
+import cn.wechat.core.Wx;
 
 /**
  * 引导配置
  *
- * @author DokiYolo
+ * @author Wangze
  * Date 2022-08-22
  */
 public class Bootstrap {
